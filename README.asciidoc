@@ -1,0 +1,28 @@
+I designed the http://cemerick.com/2011/07/05/flowchart-for-choosing-the-right-clojure-type-definition-form/[original] _Clojure type selection_ flowchart earlier in 2011:
+
+image::https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/choosingtypeforms.png[]
+
+Since then, it has been translated to https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/translations/japanese.png[Japanese], https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/translations/dutch.png[Dutch], and http://codemountain.wordpress.com/2011/08/22/flowchart-de-apoio-a-escolha-tipos-em-clojure[Portugese].
+
+I wanted to make it easier for others to produce translations of the flowchart, since it seems to be very helpful to people, especially as they are learning Clojure.  Thus, I created this repo and added the original http://www.omnigroup.com/products/omnigraffle/[OmniGraffle] file.  I hope that, _if you know a language well_ that does not yet have a translation of the flowchart, you'll take a few minutes to produce one.
+
+Editing the OmniGraffle file is a piece of cake, and http://www.omnigroup.com/products/omnigraffle/[Omni Group] offers 14-day trials of the software that you can use to make the necessary changes.
+
+(The `.graffle` file is actually just XML, so it's plausible that you'd be able to perform the translation without using OmniGraffle.  I'll happily perform the export to `.png` in this case.)
+
+=== Providing a translation
+
+1. Clone this repo.
+2. Copy `choosingtypeforms.graffle` to `translations/<YOUR LANGUAGE>.graffle
+3. Make the necessary changes, adding an translator attribution to the lower-right of the page and a URL for yourself if you like.
+4. Export the result as PNG to `translations/<YOUR LANGUAGE>.png`
+5. Send me a pull request.
+
+=== Publication
+
+This flowchart will be featured in an appendix in the forthcoming http://clojurebook.com[_Clojure Programming_] from O'Reilly, by myself, Christophe Grand, and Brian Carper.
+
+image::http://www.clojurebook.com/cover.png[]
+
+
+http://cemerick.com/2011/07/05/flowchart-for-choosing-the-right-clojure-type-definition-form[Original Clojure type selection flowchart] © 2011 Chas Emerick <http://cemerick.com[cemerick@snowtide.com]>
