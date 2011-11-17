@@ -2,7 +2,11 @@ I designed the http://cemerick.com/2011/07/05/flowchart-for-choosing-the-right-c
 
 image::https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/choosingtypeforms.png[]
 
-Since then, it has been translated to https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/translations/japanese.png[Japanese], https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/translations/dutch.png[Dutch], and http://codemountain.wordpress.com/2011/08/22/flowchart-de-apoio-a-escolha-tipos-em-clojure[Portuguese].
+Since then, it has been translated to:
+
+* https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/translations/dutch.png[Dutch] (https://github.com/Borkdude[Michiel Borkent])
+* https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/translations/japanese.png[Japanese] (https://twitter.com/#!/omasanori[OGINO Masanori])
+* http://codemountain.wordpress.com/2011/08/22/flowchart-de-apoio-a-escolha-tipos-em-clojure[Portuguese] (http://codemountain.wordpress.com/2011/08/22/flowchart-de-apoio-a-escolha-tipos-em-clojure[Paulo Suzart])
 
 I wanted to make it easier for others to produce translations of the flowchart, since it seems to be very helpful to people, especially as they are learning Clojure.  Thus, I created this repo and added the original http://www.omnigroup.com/products/omnigraffle/[OmniGraffle] file.  I hope that, _if you know a language well_ that does not yet have a translation of the flowchart, you'll take a few minutes to produce one.
 
