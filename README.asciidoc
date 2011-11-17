@@ -13,7 +13,7 @@ Editing the OmniGraffle file is a piece of cake, and http://www.omnigroup.com/pr
 === Providing a translation
 
 1. Clone this repo.
-2. Copy `choosingtypeforms.graffle` to `translations/<YOUR LANGUAGE>.graffle
+2. Copy `choosingtypeforms.graffle` to `translations/<YOUR LANGUAGE>.graffle`
 3. Make the necessary changes, adding an translator attribution to the lower-right of the page and a URL for yourself if you like.
 4. Export the result as PNG to `translations/<YOUR LANGUAGE>.png`
 5. Send me a pull request.
