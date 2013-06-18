@@ -9,6 +9,7 @@ Since then, it has been translated to:
 * https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/translations/portuguese.png[Portuguese] (http://codemountain.wordpress.com/2011/08/22/flowchart-de-apoio-a-escolha-tipos-em-clojure[Paulo Suzart])
 * https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/translations/german.png[German] (http://blog.licenser.net[Heinz N. Gies])
 * https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/translations/spanish.png[Spanish] (http://www.andresvalenciano.com/[Andrés Valenciano])
+* https://raw.github.com/cemerick/clojure-type-selection-flowchart/master/translations/chinese.png[Chinese] (http://xumingming.sinaapp.com/[James Xu])
 
 I wanted to make it easier for others to produce translations of the flowchart, since it seems to be very helpful to people, especially as they are learning Clojure.  Thus, I created this repo and added the original http://www.omnigroup.com/products/omnigraffle/[OmniGraffle] file.  I hope that, _if you know a language well_ that does not yet have a translation of the flowchart, you'll take a few minutes to produce one.
 
@@ -26,7 +27,7 @@ Editing the OmniGraffle file is a piece of cake, and http://www.omnigroup.com/pr
 
 === Publication
 
-This flowchart will be featured in an appendix in the forthcoming http://clojurebook.com[_Clojure Programming_] from O'Reilly, by myself, Christophe Grand, and Brian Carper.
+This flowchart is featured in an appendix in http://clojurebook.com[_Clojure Programming_] from O'Reilly, by myself, Christophe Grand, and Brian Carper.
 
 image::http://www.clojurebook.com/cover.png[]
 
