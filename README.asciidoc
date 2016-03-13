@@ -10,6 +10,7 @@ Since then, it has been translated to:
 * https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/translations/german.png[German] (http://blog.licenser.net[Heinz N. Gies])
 * https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/translations/spanish.png[Spanish] (http://www.andresvalenciano.com/[Andrés Valenciano])
 * https://raw.github.com/cemerick/clojure-type-selection-flowchart/master/translations/chinese.png[Chinese] (http://xumingming.sinaapp.com/[James Xu])
+* https://github.com/cemerick/clojure-type-selection-flowchart/raw/master/translations/swedish.png[Swedish] (https://github.com/antonaut[Anton Erholt])
 
 I wanted to make it easier for others to produce translations of the flowchart, since it seems to be very helpful to people, especially as they are learning Clojure.  Thus, I created this repo and added the original http://www.omnigroup.com/products/omnigraffle/[OmniGraffle] file.  I hope that, _if you know a language well_ that does not yet have a translation of the flowchart, you'll take a few minutes to produce one.
 
